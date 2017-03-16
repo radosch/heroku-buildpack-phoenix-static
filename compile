@@ -1,4 +1,4 @@
-brunch build --production
+MIX_ENV=prod webpack -p
 
 cd $phoenix_dir
 
